@@ -1,0 +1,9 @@
+# Linux Tips
+
+- cd → change directory
+- ls → list files
+- nano <file> → open file editor
+- mkdir → make directory
+- git add . → stage all files
+- git commit -m "message" → save snapshot
+- git push → upload to GitHub
